@@ -23,8 +23,8 @@
 ---
 
 ### 📫 Reach Me
-- 📧 [venkatamadhu07@gmail.com](mailto:venkatamadhu07@gmail.com)
-- 🌐 [My Portfolio Website](https://venkatamadhu07.github.io/Portfolio-Website)
+- 📧 [2200049188ece@gmail.com](mailto:2200049188ece@gmail.com)
+- 🌐 [My Portfolio Website](http://127.0.0.1:3000/index.html) <!-- ⚠️ Replace with your deployed GitHub Pages link later -->
 
 ---
 
