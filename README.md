@@ -29,4 +29,3 @@
 ---
 
 > "Building things that matter, one project at a time."
-
