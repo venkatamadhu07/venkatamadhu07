@@ -24,7 +24,7 @@
 
 ### 📫 Reach Me
 - 📧 [2200049188ece@gmail.com](mailto:2200049188ece@gmail.com)
-- 🌐 [My Portfolio Website](http://127.0.0.1:3000/index.html) <!-- ⚠️ Replace with your deployed GitHub Pages link later -->
+- 🌐 [My Portfolio Website](https://regal-brigadeiros-f323f2.netlify.app/) <!-- ⚠️ Replace with your deployed GitHub Pages link later -->
 
 ---
 
