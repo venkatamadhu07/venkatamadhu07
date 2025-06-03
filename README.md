@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Venkat Madhu!
 
 🎓 B.Tech in ECE (Data Science Specialization) @ KL University  
-💻 Passionate about AI, Web Development & Embedded Systems  
-🚀 Exploring opportunities in Software & Embedded Testing
+💻 Passionate about Full Stack development and Devops
+🚀 Exploring opportunities in Software Industry
 
 ---
 
 ### 🧠 Skills
 - Programming: Python, C, JavaScript
-- Web Dev: HTML, CSS, React, Django
-- Data: Pandas, MySQL, Machine Learning
-- Tools: Git, VS Code, Cadence Virtuoso
+- Web Dev: HTML, CSS, React, Django,Express.js,Node.js
+- Cloud & Database technologies: AWS, AZURE, Mongodb, SQL
+- Tools: Git, VS Code, UI/UX Development, devops
 
 ---
 
